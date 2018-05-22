@@ -1,4 +1,4 @@
-name "opsworksWebServer"
+name "opsworksWebServerDemo"
 maintainer "AWS"
 maintainer_email "you_email@example.com"
 license "Apache 2.0"
